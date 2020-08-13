@@ -3,6 +3,7 @@
 MaGIC ARlumni is an AI/ML-powered app that recognize and display information about MaGIC Alumni Startups displayed at the Alumni Wall located on the Ground Floor of MaGIC Cyberjaya. The application was built on Flutter
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.magic.arlumni_flutter)
+- [Apple App Store](https://apps.apple.com/my/app/magic-arlumni/id1484779424)
 
 <p align="center"><img src="images/anigif.gif" alt="MaGIC" width="25%"/></p>
 
