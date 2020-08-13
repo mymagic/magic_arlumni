@@ -1,0 +1,79 @@
+{
+    "project_info": {
+        "project_number": "1046992373342",
+        "firebase_url": "https://mymagic-1317.firebaseio.com",
+        "project_id": "mymagic-1317",
+        "storage_bucket": "mymagic-1317.appspot.com"
+    },
+    "client": [{
+            "client_info": {
+                "mobilesdk_app_id": "1:1046992373342:android:d0db7d5abed2b335c096cf",
+                "android_client_info": {
+                    "package_name": "com.example.magic_arlumni"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "1046992373342-jmrqbtkfqalmcmcrv3qg21843l05e6qn.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyADRK0w0Mcc3_59GNyefds5D8iR012oNMA"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "1046992373342-jmrqbtkfqalmcmcrv3qg21843l05e6qn.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1046992373342:android:6458d96112088852c096cf",
+                "android_client_info": {
+                    "package_name": "com.magic.arlumni_flutter"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "1046992373342-jmrqbtkfqalmcmcrv3qg21843l05e6qn.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyADRK0w0Mcc3_59GNyefds5D8iR012oNMA"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "1046992373342-jmrqbtkfqalmcmcrv3qg21843l05e6qn.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1046992373342:android:f9f7ff33207881dcc096cf",
+                "android_client_info": {
+                    "package_name": "com.mymagic.aralumni"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "1046992373342-jmrqbtkfqalmcmcrv3qg21843l05e6qn.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyADRK0w0Mcc3_59GNyefds5D8iR012oNMA"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "1046992373342-jmrqbtkfqalmcmcrv3qg21843l05e6qn.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
